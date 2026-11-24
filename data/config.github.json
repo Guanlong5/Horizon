@@ -185,7 +185,7 @@
     "imap_port": 993,
     "email_address": "452201220@qq.com",
     "password_env": "EMAIL_PASSWORD",
-    "sender_name": "Horizon 新闻雷达",
+    "sender_name": "Horizon",
     "subscribe_keyword": "SUBSCRIBE",
     "unsubscribe_keyword": "UNSUBSCRIBE"
   },
